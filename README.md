@@ -27,5 +27,5 @@ It calculates the probability of winning, tying, and improving your hand based o
 3. Run the script:
 
    ```bash
-     python poker_handler.py
+      python poker_handler.py
 
