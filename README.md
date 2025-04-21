@@ -23,6 +23,7 @@ It calculates the probability of winning, tying, and improving your hand based o
   python poker_handler.py
 
 
-## 🖼️ Screenshot
+## 🖼 Screenshot
 
 ![Screenshot](image.png)
+
