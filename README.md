@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey)
+
 # ♠️ poker-handler
 
 **Poker Handler** is a Monte Carlo-based Texas Hold'em odds and outs simulator.  
