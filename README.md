@@ -25,6 +25,4 @@ It calculates the probability of winning, tying, and improving your hand based o
 
 ## 🖼️ Screenshot
 
-![image](https://github.com/user-attachments/assets/1b45e7b3-dfb3-421d-8c90-7835cebc8c97)
-
-
+![Screenshot](image.png)
