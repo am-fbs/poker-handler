@@ -14,13 +14,14 @@ It calculates the probability of winning, tying, and improving your hand based o
 ![Screenshot](image.png)
 
 📦 **Usage**:
-1. Clone the repo  
+1. Clone the repo
+   
    ```bash
-   git clone https://github.com/am-fbs/poker-handler.git
+      git clone https://github.com/am-fbs/poker-handler.git
 
 
-2. Run the script:
+3. Run the script:
 
- ```bash
-  python poker_handler.py
+   ```bash
+     python poker_handler.py
 
