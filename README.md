@@ -11,6 +11,8 @@ It calculates the probability of winning, tying, and improving your hand based o
 - Full input validation and duplicate prevention
 - Clean Tkinter GUI – fast and responsive
 
+![Screenshot](image.png)
+
 📦 **Usage**:
 1. Clone the repo  
    ```bash
@@ -22,7 +24,3 @@ It calculates the probability of winning, tying, and improving your hand based o
  ```bash
   python poker_handler.py
 
-
-## 📷 Screenshot
-
-![Screenshot](image.png)
