@@ -15,7 +15,31 @@ It calculates the probability of winning, tying, and improving your hand based o
 - Full input validation and duplicate prevention
 - Clean Tkinter GUI – fast and responsive
 
-![Screenshot](image.png)
+---
+
+## 🎲 What is Monte Carlo?
+
+Monte Carlo simulation generates thousands of full poker games based on your current hand and possible unknowns.  
+It tracks how often you'd win, tie, or lose — statistically, not emotionally.
+
+The more iterations, the more accurate the outcome.
+
+---
+
+## 💾 Download (Windows EXE)
+
+🧊 **Portable EXE build (no install required):**
+
+> [⬇️ Download PokerHandler_v1.0.0.zip](https://github.com/conqst/poker-handler/releases/latest)
+
+- Extract ZIP  
+- Run `poker_handler.exe`  
+- No setup, no Python required
+
+---
+
+## ⚙️ Running from source
+
 
 📦 **Usage**:
 1. Clone the repo
@@ -29,3 +53,6 @@ It calculates the probability of winning, tying, and improving your hand based o
    ```bash
       python poker_handler.py
 
+---
+
+![Screenshot](image.png)
